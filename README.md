@@ -1,12 +1,12 @@
 # Loan Eligibility Prediction Using PySpark
 
-## 📌 Project Overview
+## Project Overview
 
 Loan Eligibility Prediction is a machine learning project designed to predict whether a loan application is likely to be approved or rejected based on applicant information.
 
 The project uses PySpark for scalable data processing and machine learning models to analyze applicant characteristics such as income, credit history, education, employment status, and property area.
 
-## 🎯 Objective
+## Objective
 
 The main objective of this project is to build a machine learning system that can:
 
@@ -16,7 +16,7 @@ The main objective of this project is to build a machine learning system that ca
 - Compare multiple classification algorithms
 - Evaluate model performance using standard classification metrics
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - PySpark
@@ -27,7 +27,7 @@ The main objective of this project is to build a machine learning system that ca
 - Scikit-learn / Spark MLlib
 - Jupyter Notebook
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains information related to loan applicants, including:
 
@@ -44,7 +44,7 @@ The dataset contains information related to loan applicants, including:
 - Property area
 - Loan approval status
 
-## 🔄 Project Workflow
+## Project Workflow
 
 Data Collection
 ↓
@@ -64,7 +64,7 @@ Model Comparison
 ↓
 Loan Eligibility Prediction
 
-## 🧹 Data Preprocessing
+## Data Preprocessing
 
 The preprocessing stage includes:
 
@@ -74,7 +74,7 @@ The preprocessing stage includes:
 - Creating derived features such as total income
 - Preparing the target variable
 
-## ⚙️ Feature Engineering
+## Feature Engineering
 
 Some derived features include:
 
@@ -86,7 +86,7 @@ Total Income = Applicant Income + Co-applicant Income
 
 Used to understand the relationship between applicant income and requested loan amount.
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 Three classification models were implemented and compared:
 
@@ -102,7 +102,7 @@ An ensemble technique that builds models sequentially, where each new model atte
 
 A statistical classification algorithm used to estimate the probability of loan approval.
 
-## 📈 Model Evaluation
+## Model Evaluation
 
 The models are evaluated using:
 
@@ -114,7 +114,7 @@ The models are evaluated using:
 
 Model performance is compared to identify the most suitable model for the loan eligibility prediction task.
 
-## 💡 Business Applications
+## Business Applications
 
 A loan eligibility prediction system can help financial institutions:
 
@@ -124,7 +124,7 @@ A loan eligibility prediction system can help financial institutions:
 - Identify important applicant characteristics
 - Handle large volumes of applications
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Hyperparameter tuning
 - Cross-validation
