@@ -46,31 +46,7 @@ The dataset contains information related to loan applicants, including:
 
 ## Project Workflow
 
-Data Collection
-<img width="55" height="39" alt="image" src="https://github.com/user-attachments/assets/f927c3e3-3bc3-45c8-86ed-01355d7fa6fc" />
-
-Data Cleaning
-<img width="55" height="39" alt="image" src="https://github.com/user-attachments/assets/51eb9222-ddd6-4bd8-9f38-2df7f58bea2d" />
-
-Exploratory Data Analysis
-<img width="55" height="39" alt="image" src="https://github.com/user-attachments/assets/4831c08f-0252-4f65-bf58-dac1cd52618c" />
-
-Feature Engineering
-<img width="55" height="39" alt="image" src="https://github.com/user-attachments/assets/c605a343-b6e4-4d8a-b6ab-fd0b8cd53b47" />
-
-Feature Transformation
-<img width="55" height="39" alt="image" src="https://github.com/user-attachments/assets/07cc151e-330d-4b4d-b64d-d788deacda38" />
-
-Model Training
-<img width="55" height="39" alt="image" src="https://github.com/user-attachments/assets/238ce146-3084-4a07-ace1-7bca9c367362" />
-
-Model Evaluation
-<img width="55" height="39" alt="image" src="https://github.com/user-attachments/assets/44cf1ad3-4aa9-4f85-9a1b-45cc48da88a2" />
-
-Model Comparison
-<img width="55" height="39" alt="image" src="https://github.com/user-attachments/assets/c5bbcef8-e313-4230-866d-d2c415485f59" />
-
-Loan Eligibility Prediction
+Data Collection → Data Cleaning → Exploratory Data Analysis → Feature Engineering → Feature Transformation → Model Training → Model Evaluation →  Loan Eligibility Prediction 
 
 ## Data Preprocessing
 
