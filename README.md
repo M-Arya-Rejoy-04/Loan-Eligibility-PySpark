@@ -117,7 +117,7 @@ A loan eligibility prediction system can help financial institutions:
 - Interactive dashboard using Power BI/Tableau
 - Real-time loan prediction API
 
-## 👩‍💻 Author
+## Author
 
 M Arya Rejoy
 
